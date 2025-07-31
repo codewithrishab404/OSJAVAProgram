@@ -1,4 +1,4 @@
-package cpuSchedulingAlgo;
+package cpuSchedulingAlgo.fcfs;
 
 import java.util.Arrays;
 import java.util.Comparator;
